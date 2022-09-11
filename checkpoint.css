@@ -1,0 +1,137 @@
+nav {background-color:hsla(0, 3%, 23%, 0.74);
+padding-left: 20px;
+padding-top: 20px;
+padding-right: 20px;
+padding-bottom: 20px;
+font-family: 'Ms Madi', cursive;
+font-size: 25px;
+font-style: normal;
+font-weight: bolder;
+text-align: left;
+color: #ffffff;
+box-shadow: inset;
+border-radius: 50px;}
+#texte{
+    text-align: right;
+}
+#bouton{
+    text-align: right;
+}
+body {background-color: #ffffff;
+    margin-top:50px;
+    margin-bottom:50px;
+    margin-left:50px;
+    margin-right:50px;
+    border-radius: 20px;
+}
+h2{font-family: 'Ms Madi', cursive;
+color: rgba(73, 2, 69, 0.884);
+background: size 20px;
+font-size: 35px;}
+.about{display: block;
+width: 50%;
+font-family: 'Roboto', sans-serif;
+font-size: 18px;
+padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+color: rgb(86, 88, 88);
+text-align: justify;
+background-color: rgb(236, 237, 238);
+border-radius: 20px;
+}
+.video{
+   position: center;
+   margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+}
+#worktext{
+   
+    font-family: 'Roboto', sans-serif;
+    color: rgb(86, 88, 88);
+    font-size: 18px;
+    width: 50%;
+    font-style: normal;
+    text-align: justify;
+    padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left: 20px;
+margin-right: 20px;
+color: rgb(86, 88, 88);
+text-align: justify;
+background-color: rgb(236, 237, 238);
+border-radius: 20px;
+
+}
+.resume{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(86, 88, 88);
+    font-size: 18px;
+    width: 50%;
+    font-style: normal;
+    text-align: justify;
+    padding-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+padding-bottom: 10px;
+margin-top: 20px;
+margin-bottom: 20px;
+margin-left:  900px;
+margin-right: 20px;
+color: rgb(86, 88, 88);
+text-align: justify;
+background-color: rgb(236, 237, 238);
+border-radius: 20px;
+}
+.contact{background-color: rgb(236, 237, 238);
+    border-radius: 20px;
+    width: 50%;
+    padding-left: 20px;
+   
+}
+
+#name,#lastname,#BD,#number,#description{width: 200px;
+    height: 20px;
+    border-radius: 20px;
+    border-color: #c68dec;
+background-color: #c68dec;
+}
+span{font-family:'Ms Madi', cursive ;
+font-size: 20px;
+font-weight: bold;
+color: #605f61;}
+#checkf,#checkm{background-color: #c68dec;
+font-family:'Ms Madi', cursive ;}
+#img2{border-radius: 20px; 
+    margin-left: 20px;
+}
+#img3{border-radius: 20px; 
+    margin-left: 20px;
+}
+#submit{border-radius: 10px;
+border: #c68dec;
+background-color: #c68dec;
+font-family:'Ms Madi', cursive ;
+font-size: 20px;
+color: #605f61;
+font-weight: bold;
+}
+#rest{border-radius: 10px;
+    border: #c68dec;
+    background-color: #c68dec;
+    font-family:'Ms Madi', cursive ;
+    font-size: 20px;
+    color: #605f61;
+    font-weight: bold;
+    }
